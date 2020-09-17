@@ -1,5 +1,5 @@
 # Services in angular practice [![](https://img.shields.io/badge/autor-letItCurl-red.svg)](https://www.linkedin.com/in/roland-lopez-developer/?locale=en_US)
-> Diving deeper into services
+> Diving deeper into services with Maximilian the german udemy master
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7
 
